@@ -1,8 +1,0 @@
-com\codegen\model\GeneratedCode.class
-com\codegen\controller\GeneratorApiController.class
-com\codegen\service\EntityRegistryService.class
-com\codegen\model\ForeignKeyDef.class
-com\codegen\service\CodeGeneratorService.class
-com\codegen\CodeGeneratorApplication.class
-com\codegen\model\TableDefinition.class
-com\codegen\model\ColumnDef.class
